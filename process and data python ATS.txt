@@ -1,0 +1,7 @@
+1  first instlling the anoconda software on laptop .
+
+2  install  extension git graph + live share +materiol icon theme +todo +git lense +
+
+3  formatter +  format ontype cheack bok enble + 
+
+how to run :-  streamlit run app.py
